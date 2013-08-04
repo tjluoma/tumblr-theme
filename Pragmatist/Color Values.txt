@@ -1,0 +1,34 @@
+#000000	Body Background
+
+#646464	Body Text
+#646464	Menu Text
+#666666	Link
+
+#97291A	Link Hover
+#992A1B	Menu Background Hover
+
+#E1E1E1	Menu Background
+#E5E5E5	Header Background
+
+#FCFCFC Menu Text Hover
+
+#FFFFFF	Image Border
+
+[img]	Body Background
+
+
+http://www.html-color-names.com/midnightblue.php
+
+#191970
+
+#11114E
+#CDCDFE
+#9C9CFE
+
+h2 { line-height: 1.25; }
+
+.dashboard { display: none; }
+
+footer (
+background-color:#11114e;
+}
